@@ -1,4 +1,7 @@
 # himawaripy
+
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 *Put near-realtime picture of Earth as your desktop background*
 
 himawaripy is a Python 3 script that fetches near-realtime (10 minutes delayed)
